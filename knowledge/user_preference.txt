@@ -1,0 +1,75 @@
+What is Machine Learning?=Machine learning is a field of AI that allows systems to learn and improve from experience without being explicitly programmed.
+What is Artificial Intelligence?=Artificial intelligence is the simulation of human intelligence in machines that are programmed to think and learn like humans.
+Difference between AI and ML?=AI is the broader concept of machines being able to carry out tasks in a smart way, while ML is a subset of AI that involves learning from data.
+Types of Machine Learning?=There are three main types of machine learning: supervised learning, unsupervised learning, and reinforcement learning.
+What is supervised learning?=Supervised learning involves training a model on a labeled dataset, meaning that each training example is paired with the correct output.
+What is unsupervised learning?=Unsupervised learning uses data that has no labels, and the system tries to learn patterns and structure from the data.
+What is reinforcement learning?=Reinforcement learning is an area of ML where an agent learns to make decisions by taking actions in an environment to maximize some notion of reward.
+What is deep learning?=Deep learning is a subset of ML that uses neural networks with many layers to model complex patterns in data.
+
+What is Artificial Intelligence?=Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think, reason, and act. These machines can learn from experience, adapt to new inputs, and perform human-like tasks. AI systems are used in a variety of fields such as robotics, natural language processing, computer vision, and more.
+
+Applications of AI?=AI is applied across numerous domains, including healthcare (diagnostic tools, drug discovery), finance (fraud detection, algorithmic trading), autonomous vehicles, smart assistants (like Siri, Alexa), recommendation systems (Netflix, Amazon), and many more.
+
+History of AI?=The concept of artificial intelligence dates back to classical philosophers who attempted to describe human thinking as a symbolic system. However, modern AI research began in the mid-20th century. The term "artificial intelligence" was first coined in 1956 at the Dartmouth Conference. The field has since gone through various phases of optimism, followed by periods of disappointment known as AI winters, and now it is experiencing significant advances thanks to computing power and data availability.
+
+Subfields of AI?=Major subfields of AI include Machine Learning, Natural Language Processing, Robotics, Expert Systems, Computer Vision, Speech Recognition, and Planning. Each subfield tackles a different set of problems using various methodologies and technologies.
+
+What is Machine Learning?=Machine Learning (ML) is a subset of AI focused on the idea that machines can learn from data, identify patterns, and make decisions with minimal human intervention. It emphasizes the development of algorithms that can modify themselves without human intervention to produce desired outputs.
+
+Difference between AI and ML?=AI is the broader science of mimicking human abilities, while ML refers to systems that can learn from experience. AI includes logic, reasoning, decision trees, etc., while ML is specifically focused on learning and prediction from data.
+
+Types of Machine Learning?=There are three primary types of machine learning: Supervised Learning, Unsupervised Learning, and Reinforcement Learning. Each has distinct methodologies, use cases, and advantages.
+
+Supervised Learning?=Supervised learning involves training a model on a labeled dataset. It uses input-output pairs to learn a function that maps inputs to desired outputs. Examples include classification (spam detection) and regression (house price prediction).
+
+Unsupervised Learning?=Unsupervised learning deals with data that has no labels. The goal is to uncover hidden patterns or intrinsic structures in the input data. Common techniques include clustering (e.g., K-means) and dimensionality reduction (e.g., PCA).
+
+Reinforcement Learning?=Reinforcement learning is a type of ML where an agent learns to behave in an environment by performing actions and receiving rewards or penalties. It’s widely used in robotics, game playing (e.g., AlphaGo), and autonomous systems.
+
+Deep Learning?=Deep Learning is a subfield of ML that uses neural networks with multiple layers (deep neural networks). It is highly effective in tasks such as image and speech recognition, and natural language processing. It requires large datasets and powerful computational resources.
+
+Neural Networks?=A neural network is a series of algorithms that attempts to recognize relationships in data through a process that mimics the way the human brain operates. It consists of layers of interconnected nodes or neurons.
+
+Natural Language Processing (NLP)?=NLP is a branch of AI that enables computers to understand, interpret, and generate human language. Applications include chatbots, sentiment analysis, translation, and speech recognition.
+
+Computer Vision?=Computer vision is a field of AI that trains computers to interpret and understand the visual world. Using digital images and deep learning models, it can identify and classify objects and respond accordingly.
+
+Overfitting and Underfitting?=Overfitting occurs when a model learns the training data too well, including its noise and outliers, and fails to generalize to new data. Underfitting happens when a model is too simple and cannot capture the underlying trend of the data.
+
+Model Evaluation Metrics?=Common metrics include Accuracy, Precision, Recall, F1 Score, ROC-AUC for classification tasks; and MSE, MAE, RMSE for regression tasks. These help assess how well the model is performing.
+
+Hyperparameter Tuning?=Hyperparameter tuning involves optimizing the settings that govern the training process of machine learning models, such as learning rate, number of trees in a random forest, or number of layers in a neural network.
+
+Gradient Descent?=Gradient Descent is an optimization algorithm used to minimize the cost function in a model by updating parameters in the opposite direction of the gradient.
+
+Bias-Variance Tradeoff?=This refers to the balance between a model's ability to minimize bias (error due to wrong assumptions) and variance (error due to too much sensitivity to small fluctuations in the training data).
+
+Feature Engineering?=The process of selecting, modifying, or creating new input features from raw data to increase the predictive power of learning algorithms.
+
+Model Deployment?=After training and validating, ML models are deployed into production environments where they make predictions on real-world data.
+
+Ethical Considerations in AI?=Includes concerns around bias in data, fairness, transparency, accountability, and the broader impact of automation on employment and society.
+
+Future of AI?=The future of AI includes further advancement in general AI capabilities, better human-machine collaboration, AI in education, healthcare, and tackling global issues such as climate change. However, it also brings ethical and governance challenges.
+
+
+What is Artificial Intelligence?=Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think, reason, and act. These machines can learn from experience, adapt to new inputs, and perform human-like tasks. AI systems are used in a variety of fields such as robotics, natural language processing, computer vision, and more.
+
+Applications of AI?=AI is applied across numerous domains, including healthcare (diagnostic tools, drug discovery), finance (fraud detection, algorithmic trading), autonomous vehicles, smart assistants (like Siri, Alexa), recommendation systems (Netflix, Amazon), and many more.
+
+History of AI?=The concept of artificial intelligence dates back to classical philosophers who attempted to describe human thinking as a symbolic system. However, modern AI research began in the mid-20th century. The term "artificial intelligence" was first coined in 1956 at the Dartmouth Conference. The field has since gone through various phases of optimism, followed by periods of disappointment known as AI winters, and now it is experiencing significant advances thanks to computing power and data availability.
+
+Subfields of AI?=Major subfields of AI include Machine Learning, Natural Language Processing, Robotics, Expert Systems, Computer Vision, Speech Recognition, and Planning. Each subfield tackles a different set of problems using various methodologies and technologies.
+
+What is Machine Learning?=Machine Learning (ML) is a subset of AI focused on the idea that machines can learn from data, identify patterns, and make decisions with minimal human intervention. It emphasizes the development of algorithms that can modify themselves without human intervention to produce desired outputs.
+
+Difference between AI and ML?=AI is the broader science of mimicking human abilities, while ML refers to systems that can learn from experience. AI includes logic, reasoning, decision trees, etc., while ML is specifically focused on learning and prediction from data.
+
+Types of Machine Learning?=There are three primary types of machine learning: Supervised Learning, Unsupervised Learning, and Reinforcement Learning. Each has distinct methodologies, use cases, and advantages.
+
+Supervised Learning?=Supervised learning involves training a model on a labeled dataset. It uses input-output pairs to learn a function that maps inputs to desired outputs. Examples include classification (spam detection) and regression (house price prediction).
+
+Unsupervised Learning?=Unsupervised learning deals with data that has no labels. The goal is to uncover hidden patterns or intrinsic structures in the input data. Common techniques include clustering (e.g., K-means) and dimensionality reduction (e.g., PCA).
+
+Reinforcement Learning?=Reinforcement learning is a type of ML where an agent learns to behave in an environment by performing actions and receiving rewards or penalties. It’s widely used in robotics, game playing (e.g., AlphaGo), and autonomous systems.
